@@ -126,6 +126,6 @@ STATIC_URL = '/static/'
 
 # mailchimp integration
 
-MAILCHIMP_API_KEY = 'bd1e885ff151ec309d136d713d81cd7f-us7'
+MAILCHIMP_API_KEY = 'your api_keys here'
 MAILCHIMP_DATA_CENTER = 'us7'
-MAILCHIMP_LIST_ID = '47dc7d3589'
+MAILCHIMP_LIST_ID = 'your list_id here'
